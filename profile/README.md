@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **Just rotate the last character by 90° in clockwise :)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 </p>
 
