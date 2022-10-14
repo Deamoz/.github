@@ -1,7 +1,7 @@
 [![MasterHead](https://www.pixel4k.com/wp-content/uploads/2021/04/bike-rider-with-gears-on-minimal-4k_1618131491-2048x1152.jpg)](https://github.com/Deamoz)
 <h1 align="center">Hi 👋, We are Deamoz</h1>
 <h3 align="center">Just lost developers who are trying to survive. justKidding(arg=":)")</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deamoz&label=Profile%20views&color=0e75b6&style=flat" alt="deamoz" /> </p>
 
 - 🔭 Currently working on **Deamoz**
